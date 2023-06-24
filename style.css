@@ -30,11 +30,12 @@ img {
 /* Style the bodys */
 body {
   background-color: black;
+  margin: 25px;
 }
 
 footer {
   padding: 40px;
-  margin: 420px 75px;
+  margin: 100px 50px;
 }
 
  /* Style the list */
