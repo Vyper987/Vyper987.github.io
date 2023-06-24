@@ -16,3 +16,8 @@ img {
   margin-right: auto;
   width: 40%;
 }
+
+body {
+  background-image: url("https://shorturl.at/jpFIT");
+  background-color: black;
+}
