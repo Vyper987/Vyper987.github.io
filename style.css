@@ -32,6 +32,10 @@ body {
   background-color: black;
 }
 
+footer {
+  padding: 420px;
+}
+
  /* Style the list */
  ul.breadcrumb {
   padding: 10px 16px;
