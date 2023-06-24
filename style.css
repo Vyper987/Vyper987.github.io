@@ -7,12 +7,17 @@
 
 /* Style the h1 */
 h1 {
-  font-size: 42.0px;
   background-color: black;
   font-weight: bold;
   color: white;
   text-align: center;
   background-image: url("https://shorturl.at/bmqyQ");
+}
+
+/* Style the h2 */
+h2 {
+  font-weight: bold;
+  text-align: center;
 }
 
 /* Style the images */
