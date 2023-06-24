@@ -1,3 +1,9 @@
-body {
-  color: red;
-  }
+h1 {
+  background-color: red;
+  color: black;
+}
+
+a {
+  background-color: black;
+  color: white;
+}
