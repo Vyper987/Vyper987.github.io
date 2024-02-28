@@ -7,6 +7,10 @@ h2 {
     color: whitesmoke;
 }
 
-h2, p, h1 {
-    border: 1px solid black;
+h2, p {
+    border: 1px solid darkslategray;
+}
+
+h1 {
+    background-color: darkslategray;
 }
