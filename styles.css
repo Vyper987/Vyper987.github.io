@@ -6,3 +6,7 @@ h2 {
     background-color: grey;
     color: whitesmoke;
 }
+
+h2, p, h1 {
+    border: 1px solid black;
+}
