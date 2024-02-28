@@ -3,14 +3,18 @@ h2 {
 }
 
 * {
-    background-color: grey;
+    background-color: darkgray;
     color: whitesmoke;
 }
 
 .divider {
-    border-bottom: 1px solid darkslategray;
+    border-bottom: 1px solid black;
 }
 
 h1 {
-    background-color: darkslategray;
+    background-color: black;
+}
+
+.name-decor {
+    margin: 20px 50px;
 }
